@@ -6,8 +6,8 @@ if(message.author.id == "712362978288074834")
       "Estas banido de usar todos os meus comandos")
 
         .setTitle('Meu Convite')
-        .setColor('#DE2424')
-        .setDescription(`[Clica aqui para Invitar-me])`)
+        .setColor('#0ffcb2')
+        .setDescription(`[Clica aqui para Invitares-me])`)
         .setTimestamp()
         .setFooter("Obrigado");
 
